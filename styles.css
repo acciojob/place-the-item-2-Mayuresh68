@@ -18,7 +18,7 @@
 #box-4{
 	background-color:yellow;
 }
-.container{
+.holder{
 	display:flex;
 	justify-content: center;
 }
