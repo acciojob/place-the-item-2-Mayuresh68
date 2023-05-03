@@ -19,6 +19,7 @@
 	background-color:yellow;
 }
 .holder{
-	display:flex;
+	display: flex;  
+  flex-wrap: wrap;
 	justify-content: center;
 }
